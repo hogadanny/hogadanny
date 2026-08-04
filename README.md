@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm MUHUMURE DANIEL 👋
 
-<!--
-**hogadanny/hogadanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Data Annotator | Python & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am a Networking & Internet Technology (NIT) Level 5 graduate passionate about Artificial Intelligence, Python programming, data, IoT, and technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, building practical projects, and using programming to solve real-world problems.
+
+## 🛠️ Skills
+
+- Python Programming
+- Artificial Intelligence Fundamentals
+- Machine Learning Basics
+- Data Processing
+- AI Data Annotation
+- Image Classification
+- Computer Networking
+- IoT Systems
+- ESP32-CAM Projects
+- Database Fundamentals
+
+## 🚀 Projects
+
+### ESP32-CAM Smart Monitoring System
+IoT-based camera monitoring project with image capture and automated alert features.
+
+### Python & AI Learning Projects
+Projects focused on Python programming, data handling, and machine learning concepts.
+
+### Networking Projects
+Practical networking configuration and troubleshooting exercises.
+
+## 🎯 Career Goals
+
+Currently seeking opportunities in:
+
+- AI Data Annotation
+- AI Training
+- Machine Learning Internships
+- Python Development
+- Data Analysis
+
+## 📫 Contact
+
+Email: hogadanny@gmail.com
+
+Location: Rwanda
